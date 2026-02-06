@@ -7,11 +7,12 @@ To write a program to predict the type of species of the Iris flower using the S
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
+```
 1.Load the dataset and separate features X and label y 
 2.Divide the dataset into training and testing sets 
 3.Fit a multinomial logistic regression model on the training data. 
 4.Predict on the test set and calculate accuracy (optionally, display the confusion matrix). 
-
+```
 ## Program:
 ```
 /*
