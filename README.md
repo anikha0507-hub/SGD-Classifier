@@ -44,9 +44,13 @@ plt.show()
 ```
 
 ## Output:
-<img width="197" height="56" alt="image" src="https://github.com/user-attachments/assets/c37b4cc2-bb56-43e0-b305-435b865f5937" />
-<img width="701" height="580" alt="image" src="https://github.com/user-attachments/assets/ceb81d1c-2417-418c-9b84-9f3b9def7b55" />
-<img width="701" height="580" alt="Screenshot 2026-02-06 113506" src="https://github.com/user-attachments/assets/ac58e878-fc4f-4a9a-bdc5-304722b8f706" />
+<img width="198" height="40" alt="image" src="https://github.com/user-attachments/assets/e5d6fe22-5516-466f-95b5-f144aed4e92b" />
+<img width="222" height="107" alt="image" src="https://github.com/user-attachments/assets/e5883741-9066-4c5a-a6c6-ecfe189f99d1" />
+<img width="652" height="572" alt="image" src="https://github.com/user-attachments/assets/ac51ea1e-5ed3-43a6-8cb3-6980fddeb3fc" />
+
+
+
+
 
 
 
