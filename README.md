@@ -42,7 +42,8 @@ print("Confusion Matrix:\n", cm)
 
 ## Output:
 <img width="198" height="40" alt="image" src="https://github.com/user-attachments/assets/e5d6fe22-5516-466f-95b5-f144aed4e92b" />
-<img width="222" height="107" alt="image" src="https://github.com/user-attachments/assets/e5883741-9066-4c5a-a6c6-ecfe189f99d1" />
+<img width="232" height="102" alt="image" src="https://github.com/user-attachments/assets/be826388-eddc-4752-b76e-20436b14d990" />
+
 
 
 
