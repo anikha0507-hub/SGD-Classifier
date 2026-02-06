@@ -11,7 +11,7 @@ To write a program to predict the type of species of the Iris flower using the S
 1.Load the dataset and separate features X and label y 
 2.Divide the dataset into training and testing sets 
 3.Fit a multinomial logistic regression model on the training data. 
-4.Predict on the test set and calculate accuracy (optionally, display the confusion matrix). 
+4.Predict on the test set and calculate accuracy. 
 ```
 ## Program:
 ```
@@ -36,17 +36,13 @@ y_pred = model.predict(x_test)
 print("Accuracy:", accuracy_score(y_test, y_pred))
 cm = confusion_matrix(y_test, y_pred)
 print("Confusion Matrix:\n", cm)
-disp = ConfusionMatrixDisplay(confusion_matrix=cm)
-disp.plot(cmap=plt.cm.Blues)
-plt.title("Confusion Matrix")
-plt.show()
+
 
 ```
 
 ## Output:
 <img width="198" height="40" alt="image" src="https://github.com/user-attachments/assets/e5d6fe22-5516-466f-95b5-f144aed4e92b" />
 <img width="222" height="107" alt="image" src="https://github.com/user-attachments/assets/e5883741-9066-4c5a-a6c6-ecfe189f99d1" />
-<img width="652" height="572" alt="image" src="https://github.com/user-attachments/assets/ac51ea1e-5ed3-43a6-8cb3-6980fddeb3fc" />
 
 
 
